@@ -1,0 +1,15 @@
+.carousel-inner{
+
+    img{
+        height: 300px;
+         object-fit: cover;
+    }
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttom:nth-child(2){
+    margin-top: 20px;
+}
